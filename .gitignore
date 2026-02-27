@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual environment
+.venv/
+
+# face data (ASLA YÜKLEME)
+data_secure/
+data_lbph/
+
+# pycharm
+.idea/
+
+# system
+Thumbs.db
+.DS_Store
