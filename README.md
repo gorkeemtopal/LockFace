@@ -92,18 +92,7 @@ yalnızca bilgisayar kullanımına ek bir koruma katmanı sağlar.
 Yani sistem, Windows Hello yerine değil, **Windows güvenliğine ek olarak** çalışmak üzere tasarlanmıştır.
 
 
-## 🎯 Projenin Amacı
 
-Geleneksel parola tabanlı güvenlik sistemleri aşağıdaki risklere açıktır:
-
-* Parola tahmini (brute force)
-* Omuz üstü izleme (shoulder surfing)
-* Şifre sızıntıları
-* Bilgisayara fiziksel erişim
-
-LockFace, bilgisayarın yetkisiz kişiler tarafından kullanılmasını önlemek için **biyometrik doğrulama katmanı** sağlar ve doğrulama başarısız olursa sistemi kilitler.
-
----
 
 ## 🧠 Temel Özellikler
 
